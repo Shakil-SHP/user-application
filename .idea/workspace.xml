@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="269c4e7c-f8a3-458e-904b-28db81d58b8a" name="Changes" comment="" />
+    <list default="true" id="269c4e7c-f8a3-458e-904b-28db81d58b8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/domain/com/shakil/app/Member.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/services/com/shakil/app/MemberService.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/src/main/groovy/com/shakil/app/AppUtils.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/src/test/groovy/com/shakil/app/MemberServiceSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/src/main/groovy/com/shakil/app/GlobalConfig.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/src/main/groovy/com/shakil/app/GlobalConfig.groovy" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +53,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
@@ -62,16 +72,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QDnjQl1Oa19AArT4hW5ZLvehI6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -100,7 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1684897154297</updated>
       <workItem from="1684897157073" duration="5258000" />
-      <workItem from="1684905883605" duration="310000" />
+      <workItem from="1684905883605" duration="2540000" />
+      <workItem from="1684921021090" duration="2159000" />
     </task>
     <servers />
   </component>
@@ -334,5 +350,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
