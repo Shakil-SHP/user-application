@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="269c4e7c-f8a3-458e-904b-28db81d58b8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/user_application/grails-app/domain/com/shakil/app/Member.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_application/grails-app/services/com/shakil/app/MemberService.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_application/src/main/groovy/com/shakil/app/AppUtils.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_application/src/test/groovy/com/shakil/app/MemberServiceSpec.groovy" afterDir="false" />
+    <list default="true" id="269c4e7c-f8a3-458e-904b-28db81d58b8a" name="Changes" comment="Member domain, service, controller added.">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/user_application.user_application.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/user_application.user_application.test~1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/grails-app/controllers/com/shakil/app/MemberController.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/grails-app/controllers/com/shakil/app/MemberController.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/grails-app/views/index.gsp" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/grails-app/views/index.gsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/grails-app/views/layouts/main.gsp" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/grails-app/views/layouts/main.gsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_application/src/main/groovy/com/shakil/app/GlobalConfig.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/src/main/groovy/com/shakil/app/GlobalConfig.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,18 +86,40 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Grails.Grails: user_application">
+    <configuration name="user_application [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/user_application" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="Grails: user_application" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -105,6 +130,11 @@
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.user_application [clean]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -116,8 +146,16 @@
       <updated>1684897154297</updated>
       <workItem from="1684897157073" duration="5258000" />
       <workItem from="1684905883605" duration="2540000" />
-      <workItem from="1684921021090" duration="2159000" />
+      <workItem from="1684921021090" duration="7680000" />
     </task>
+    <task id="LOCAL-00001" summary="Member domain, service, controller added.">
+      <created>1684923529576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684923529576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TraitInjectorService">
@@ -364,5 +402,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Member domain, service, controller added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Member domain, service, controller added." />
   </component>
 </project>

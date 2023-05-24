@@ -24,10 +24,10 @@
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-%{--        --}%%{--Member Action Menu--}%
-%{--        <ul class="navbar-nav ml-auto">--}%
+        Member Action Menu
+        <ul class="navbar-nav ml-auto">
 %{--            <UIHelper:memberActionMenu/>--}%
-%{--        </ul>--}%
+        </ul>
     </nav>
 </header>
 
