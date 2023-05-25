@@ -18,7 +18,7 @@
                     <th class="text-right"><g:message code="email"/></th><td class="text-left">${member.email}</td>
                 </tr>
                 <tr>
-                    <th class="text-right"><g:message code="member.type"/></th><td class="text-left">${member.memberType}</td>
+                    <th class="text-right"><g:message code="member.type"/></th><td class="text-left">${member.memberRole}</td>
                 </tr>
             </table>
         </g:if>

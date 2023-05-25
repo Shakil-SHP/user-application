@@ -2,9 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="user_application.user_application.integrationTest" target="11" />
-      <module name="user_application.user_application.main" target="11" />
-      <module name="user_application.user_application.test" target="11" />
+      <module name="user_application.user_application.integrationTest~1" target="11" />
+      <module name="user_application.user_application.main~1" target="11" />
+      <module name="user_application.user_application.test~1" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

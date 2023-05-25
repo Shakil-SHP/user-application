@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="269c4e7c-f8a3-458e-904b-28db81d58b8a" name="Changes" comment="View and Grails updated.">
-      <change afterPath="$PROJECT_DIR$/user_application/grails-app/views/member/_form.gsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_application/grails-app/views/member/create.gsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_application/grails-app/views/member/details.gsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_application/grails-app/views/member/edit.gsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_application/grails-app/views/member/index.gsp" afterDir="false" />
+    <list default="true" id="269c4e7c-f8a3-458e-904b-28db81d58b8a" name="Changes" comment="View and i18n updated.">
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/conf/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/grails-app/taglib/com/shakil/app/UIHelperTagLib.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/src/test/groovy/com/shakil/app/UIHelperTagLibSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_application/src/test/groovy/user_application/UIHelperTagLibSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/user_application.user_application.test~1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_application/grails-app/i18n/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/grails-app/i18n/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/grails-app/assets/stylesheets/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/grails-app/views/member/details.gsp" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/grails-app/views/member/details.gsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_application/grails-app/views/member/index.gsp" beforeDir="false" afterPath="$PROJECT_DIR$/user_application/grails-app/views/member/index.gsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +165,12 @@
       <workItem from="1684897157073" duration="5258000" />
       <workItem from="1684905883605" duration="2540000" />
       <workItem from="1684921021090" duration="8605000" />
-      <workItem from="1684980193438" duration="1271000" />
+      <workItem from="1684980193438" duration="7062000" />
+      <workItem from="1684989055398" duration="3000" />
+      <workItem from="1684989827664" duration="641000" />
+      <workItem from="1684991604969" duration="175000" />
+      <workItem from="1684992342257" duration="298000" />
+      <workItem from="1684997511669" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="Member domain, service, controller added.">
       <created>1684923529576</created>
@@ -161,13 +186,20 @@
       <option name="project" value="LOCAL" />
       <updated>1684929063555</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="View and i18n updated.">
+      <created>1684981526206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684981526206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TraitInjectorService">
     <option name="state">
       <map>
-        <entry key="user_application.user_application.integrationTest~1">
+        <entry key="user_application.user_application.integrationTest">
           <value>
             <StateHolder>
               <option name="knownFactories">
@@ -241,7 +273,7 @@
             </StateHolder>
           </value>
         </entry>
-        <entry key="user_application.user_application.main~1">
+        <entry key="user_application.user_application.main">
           <value>
             <StateHolder>
               <option name="knownFactories">
@@ -315,7 +347,7 @@
             </StateHolder>
           </value>
         </entry>
-        <entry key="user_application.user_application.test~1">
+        <entry key="user_application.user_application.test">
           <value>
             <StateHolder>
               <option name="knownFactories">
@@ -410,6 +442,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Member domain, service, controller added." />
     <MESSAGE value="View and Grails updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="View and Grails updated." />
+    <MESSAGE value="View and i18n updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="View and i18n updated." />
   </component>
 </project>

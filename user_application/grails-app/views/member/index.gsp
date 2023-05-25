@@ -34,6 +34,7 @@
         <table class="table table-bordered">
             <thead class="thead-dark">
             <tr>
+                <g:sortableColumn property="id" title="${g.message(code: "id")}"/>
                 <g:sortableColumn property="firstName" title="${g.message(code: "first.name")}"/>
                 <g:sortableColumn property="lastName" title="${g.message(code: "last.name")}"/>
                 <g:sortableColumn property="email" title="${g.message(code: "email")}"/>
@@ -43,6 +44,7 @@
             <tbody>
             <g:each in="${memberList}" var="info">
                 <tr>
+                    <td>${info?.id}</td>
                     <td>${info?.firstName}</td>
                     <td>${info?.lastName}</td>
                     <td>${info?.email}</td>
